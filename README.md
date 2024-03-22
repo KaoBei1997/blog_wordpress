@@ -1,0 +1,2 @@
+# blog_wordpress
+大一学生基于wordpress搭建个人blog的历史
